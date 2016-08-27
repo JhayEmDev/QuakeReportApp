@@ -48,6 +48,7 @@ public class EarthquakeActivity extends AppCompatActivity implements LoaderManag
   public static final String LOG_TAG = EarthquakeActivity.class.getName();
 
   // Fields
+  private String randomString = "Test";
 
   // Misc
   EarthquakesAdapter mEarthquakesAdapter;
