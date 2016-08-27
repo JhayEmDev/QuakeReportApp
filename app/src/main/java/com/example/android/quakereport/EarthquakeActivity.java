@@ -49,7 +49,6 @@ public class EarthquakeActivity extends AppCompatActivity implements LoaderManag
 
   // Fields
   private String randomString = "Test";
-
   private String haha = "The day I understand this is the day I become a pro developer";
 
   // Misc
